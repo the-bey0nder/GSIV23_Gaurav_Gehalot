@@ -16,10 +16,10 @@ You may also see any lint errors in the console.
 
 ### Elements Done well
 
-1.Displaying the cards as well as the ccontent inside the card.
-2.Also the description page if the card is clicked work so well.
-3.Responsiveness of the UI.
-4.If I had more time I would improve the infinite loading the feature.
+1.Displaying the cards as well as the ccontent inside the card.\
+2.Also the description page if the card is clicked work so well.\
+3.Responsiveness of the UI.\
+4.If I had more time I would improve the infinite loading the feature.\
 
 ### `npm test`
 
